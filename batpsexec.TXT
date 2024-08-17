@@ -1,0 +1,3 @@
+psexec -c -f -u Dominio\usuario -p SENHA @IP.txt INSTALAR_ADOBE.BAT
+
+
